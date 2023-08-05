@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Engineer with around 6.5 years of IT experience having knowledge of JavaScript, <br>Next Js, React Js, NodeJs,  Redux, SQL, PostgreSQL.<br>I'm Currently learning Next js, GraphQl.<br><br>
+I'm a Software Engineer. Having knowledge of JavaScript, <br>Next Js, React Js, NodeJs,  Redux, SQL, PostgreSQL.<br>I'm Currently learning Next js, GraphQl.<br><br>
 
 
 ## 🌐 Socials:
