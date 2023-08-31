@@ -1,5 +1,5 @@
 # 💫 About Me:
-A passionate Flutter Developer, having knowledge of JavaScript, <br>Next Js, React Js, NodeJs,  Redux, SQL, PostgreSQL.<br>I'm Currently learning Next js, GraphQl.<br><br>
+A passionate FrontEnd Developer, having knowledge of JavaScript, <br>Next Js, React Js, NodeJs,  Redux, SQL, PostgreSQL.<br>I'm Currently learning Next js, GraphQl.<br><br>
 
 
 ## 🌐 Socials:
