@@ -13,7 +13,9 @@
 
 - 👨‍💻 All of my projects are available at [https://main--statuesque-speculoos-77c825.netlify.app/](https://main--statuesque-speculoos-77c825.netlify.app/)
 
-- 💬 Ask me about **React, Next, Node**
+- 📝 I regularly write articles on [https://hackotize.wordpress.com/](https://hackotize.wordpress.com/)
+
+- 💬 Ask me about **ReactJs, NextJs, NodeJs**
 
 - 📫 How to reach me **sanukumar1138@gmail.com**
 
@@ -28,7 +30,7 @@
 <a href="https://dev.to/sanukumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sanukumar" height="30" width="40" /></a>
 <a href="https://twitter.com/sanukumar1138" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanukumar1138" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sanu-kumar-414b78b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanu-kumar-414b78b2" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/sanu-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sanu-kumar" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/10287644/sanu-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10287644/sanu-kumar" height="30" width="40" /></a>
 <a href="https://instagram.com/addicted_brat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="addicted_brat" height="30" width="40" /></a>
 <a href="https://www.behance.net/sanukumar1138" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="sanukumar1138" height="30" width="40" /></a>
 <a href="https://medium.com/@sanukumar1138" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sanukumar1138" height="30" width="40" /></a>
