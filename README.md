@@ -182,33 +182,31 @@ Features:
 
 ---
 
-# 📈 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=SanuKumar&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=SanuKumar&show_icons=true&theme=tokyonight"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanuKumar&layout=compact&theme=tokyonight"/>
-
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanuKumar&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=SanuKumar&theme=tokyonight"/>
-
+<img src="https://streak-stats.demolab.com?user=SanuKumar&theme=github-dark-blue&hide_border=true"/>
 </p>
 
 ---
 
-# 📊 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SanuKumar&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SanuKumar&theme=github-dark"/>
 
 </p>
 
@@ -234,18 +232,18 @@ Features:
 
 # 📫 Connect With Me
 
-<p>
+<p align="center">
 
-<a href="https://github.com/SanuKumar">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<a href="https://www.linkedin.com/in/sanukumar1138/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="https://github.com/SanuKumar" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+<a href="mailto:sanukumar1138@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
